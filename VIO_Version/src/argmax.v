@@ -1,8 +1,8 @@
 // =============================================================================
 // File Name   : argmax.v
 // Description : Part of the NIR Plastic Sorter Machine Learning Pipeline.
-//               This module has been optimized for the Artix-7 FPGA Architecture.
-//               (100% Pure Hardware Digital Logic)
+//               
+//               
 // =============================================================================
 module argmax #(
     parameter ACC_W = 48
